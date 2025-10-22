@@ -1,4 +1,4 @@
-import React from 'react'
+giimport React from 'react'
 import Navbar from './components/Navbar'
 import Cards from './components/Cards'
 import Footer from './components/Footer'
